@@ -28,7 +28,7 @@ public class Grundrechenarten {
 	}
 	
 	public static void main(String Args[]){
-		Grundrechenarten g = new Grundrechenarten(500, 10);
+		Grundrechenarten g = new Grundrechenarten(5, 2);
 		g.getSumme();
 	}
 }
