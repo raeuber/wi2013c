@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE person [
+					<!ELEMENT person (name, beruf*)>
+					<!ELEMENT name(vorname, nachname)>
+					<!ELEMENT vorname(#PCDATA)>
+					<!ELEMENT nachname(#PCDATA)>
+					<!ELEMENT beruf(#PCDATA)>
+					]>
+
+<person>	
+	<name>
+		<vorname>Marcus</vorname>
+		<nachname>Theile</nachname>
+	</name>
+	<beruf>Student</beruf>
+	<beruf>Andwendungsentwickler</beruf>
+	<beruf>Systemintegrator</beruf>
+</person>

@@ -1,0 +1,26 @@
+<Studenten>
+	<Student>
+		<Vorname>Heinz</Vorname>
+		<Nachname> Müller</Nachname>
+		<Strasse> Hauptstraße</Strasse>
+		<Hausnummer> 20</Hausnummer>
+		<PLZ> 33378</PLZ>
+		<Wohnort> Rheda-Wiedenbrück</Wohnort>
+	</Student>
+	<Student>
+		<Vorname>Jürgen</Vorname>
+		<Nachname> Mustermann</Nachname>
+		<Strasse> Nebenstraße</Strasse>
+		<Hausnummer> 44</Hausnummer>
+		<PLZ> 70000</PLZ>
+		<Wohnort> Stuttgart</Wohnort>
+	</Student>
+	<Student>
+		<Vorname>Zlatan</Vorname>
+		<Nachname> Ibrahimovic</Nachname>
+		<Strasse> GottesAllee</Strasse>
+		<Hausnummer> 1</Hausnummer>
+		<PLZ> 10000</PLZ>
+		<Wohnort> Berlin</Wohnort>
+	</Student>
+</Studenten>

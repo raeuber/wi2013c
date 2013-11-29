@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE KOMMUNIKATION SYSTEM "kommunikation.dtd">
+<KOMMUNIKATION>
+	<TECHNOLOGIE art="Handy">
+		<SPRACHE>
+			<HERSTELLER name="Samsung" id="smg">
+				<MODELL artikelnummer="_01231234798">S3</MODELL>
+			</HERSTELLER>
+			<HERSTELLER name="Apple" id="apl">
+				<MODELL artikelnummer="_02132111">Iphone5s</MODELL>
+			</HERSTELLER>
+		</SPRACHE> 
+		<DATEN>
+			<FABRIKANT name="Foxconn" id="fox">
+				<PRODUKT id="_01">Mainboard</PRODUKT>
+			</FABRIKANT>
+		</DATEN>
+	</TECHNOLOGIE>
+</KOMMUNIKATION>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT Transportmittel(Land, Wasser, Luft)>
+<!ELEMENT Land (Strasse, Feld)>
+<!ELEMENT Strasse (#PCDATA)>
+<!ELEMENT Feld (#PCDATA)>
+<!ELEMENT Wasser (Meer, Fluss)>
+<!ELEMENT Meer (#PCDATA)>
+<!ELEMENT Fluss (#PCDATA)>
+<!ELEMENT Luft (Kontinental, Interkontinental)>
+<!ELEMENT Kontinental (#PCDATA)>
+<!ELEMENT Interkontonental (#PCDATA)>
