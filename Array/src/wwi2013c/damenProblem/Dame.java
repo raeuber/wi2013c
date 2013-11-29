@@ -1,4 +1,4 @@
-package damenProblem;
+package wwi2013c.damenProblem;
 
 public class Dame {
 	

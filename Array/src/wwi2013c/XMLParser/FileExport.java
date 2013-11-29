@@ -1,4 +1,4 @@
-package XMLParser;
+package wwi2013c.XMLParser;
 
 import java.io.*;
 public class FileExport {

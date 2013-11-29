@@ -1,4 +1,4 @@
-package XMLParser;
+package wwi2013c.XMLParser;
 
 public class Lesen {
 	FileLeser f= new FileLeser();

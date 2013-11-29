@@ -1,4 +1,4 @@
-package XMLParser;
+package wwi2013c.XMLParser;
 /*
  * File --> Objekt
  * try-catch-Klausel

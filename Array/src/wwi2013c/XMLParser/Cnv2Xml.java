@@ -1,4 +1,4 @@
-package XMLParser;
+package wwi2013c.XMLParser;
 
 public class Cnv2Xml {
 FileExport expo= new FileExport();
